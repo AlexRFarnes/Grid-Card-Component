@@ -23,7 +23,7 @@ A responsive card component built with CSS grid. It's a project for Scrimba's Re
 ![Screenshot_1](https://user-images.githubusercontent.com/57517804/116060265-4eb8f380-a6b4-11eb-8cee-544b098ac397.png)
 
 
-[Demo]()
+[Demo](https://friendly-villani-9a70d9.netlify.app)
 
 ## Built With
 
